@@ -1,4 +1,4 @@
-[A[Bcat > indice.txt
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Repositorios remotos[A[B[A[A[A[D[D[D[D[D[D[D[D[D[D[C[B[B[B[B[B
+Capítulo 3: Gestión de ramas
+Capítulo 4: Repositorios remotos
